@@ -4,7 +4,7 @@
 🌱 I’m currently learning AI/ML\
 📚 I’m currently reading Life 3.0: Being Human in the Age of Artificial Intelligence\
 😄 Pronouns: she/her\
-🍀 My hobbies are gardening, making crafts, baking, and trying to figure out ways to be more resourceful\
+🍀 My hobbies are gardening, making crafts, anime/manga, baking, and trying to figure out ways for cats to like me more\
 ⚡ Fun fact: I really like baking sweets. My favorite at the moment are lemon muffins
 ```
 Recipe:
