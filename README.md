@@ -1,7 +1,6 @@
 ### Hi there 🌻
 
-🔭 I’m currently working on building my own image classifier\
-🌱 I’m currently learning AI/ML\
+🌱 I’m currently learning AI/ML and am interested specifically in deep learning\
 📚 I’m currently reading Life 3.0: Being Human in the Age of Artificial Intelligence\
 😄 Pronouns: she/her\
 🍀 My hobbies are gardening, making crafts, anime/manga, baking, and trying to figure out ways for cats to like me more\
