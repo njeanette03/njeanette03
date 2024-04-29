@@ -11,7 +11,7 @@ Recipe for one loaf at 350F for 60-70min:
 1/2 stick of softened butter
 1 cup of granulated sugar
 1/3 cup of brown sugar
-2 egg
+2 eggs
 1 tsp vanilla
 2 cups + 1/4 of AP flour
 1/2 tsp salt
