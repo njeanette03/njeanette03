@@ -18,6 +18,6 @@ Recipe for one loaf at 350F for 60-70min:
 1 tsp baking soda
 1 tsp of cinnamon
 2 tbsp of lemon juice (about 1/2 a lemon)
-a splash of rum
+optional: a splash of rum
 ```
 
