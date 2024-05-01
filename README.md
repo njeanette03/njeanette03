@@ -4,7 +4,7 @@
 📚 I’m currently reading Life 3.0: Being Human in the Age of Artificial Intelligence\
 😄 Pronouns: she/her\
 🍀 My hobbies are gardening, making crafts, anime/manga, baking, and trying to figure out ways for cats to like me more\
-⚡ Fun fact: I really like baking sweets. My favorite at the moment are banana bread.
+⚡ Fun fact: I really like baking sweets. My favorite at the moment is banana bread.
 ```
 Recipe for one loaf at 350F for 60-70min:
 4-5 ripe bananas
